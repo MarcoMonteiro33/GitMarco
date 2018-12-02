@@ -21,6 +21,10 @@ git reset head nomeArquivo
 git reset --soft hashCommit que deseja ficar
 git reset --mixed hashCommit que deseja ficar
 git reset --hard hashCommit que deseja ficar
+git checkout -b nomeBranch
+git branch
+
+git clone
 
 abrir o Git bash colocar
 
@@ -47,6 +51,11 @@ git remote add origin git@github.com:MarcoMonteiro33/JavaScript.git
 
 ssh -T git@MarcoMonteiro33
 
-git push -u remote_marco master
+git push -u origin master
 
-origin
+git push origin master
+
+git clone https://github.com/MarcoMonteiro33/Interne.git AgendaInterne
+
+
+
