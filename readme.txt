@@ -23,6 +23,8 @@ git reset --mixed hashCommit que deseja ficar
 git reset --hard hashCommit que deseja ficar
 git checkout -b nomeBranch
 git branch
+git checkout nomeBranch
+git merge nomeBranch
 
 git clone
 
