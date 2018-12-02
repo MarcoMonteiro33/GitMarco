@@ -31,7 +31,8 @@ copiar a chave C:\Users\marco.monteiro\.ssh
 arquivo id_rsa.pub
 
 
-git remote add origin https://github.com/MarcoMonteiro33/JavaScript.git
+
+git remote add origin https://github.com/MarcoMonteiro33/JavaScript.git (tipo https>https://github.com/MarcoMonteiro33/GitMarco.git tipo ssh>git@github.com:MarcoMonteiro33/JavaScript.git)
 git remote add origin https://github.com/MarcoMonteiro33/JavaScript.git
 
 git remote
@@ -42,7 +43,7 @@ git push origin master:refs/heads/origin
 
 git push origin origin --delete
 
-git remote add remote_marco git@github.com:MarcoMonteiro33/JavaScript.git
+git remote add origin git@github.com:MarcoMonteiro33/JavaScript.git
 
 ssh -T git@MarcoMonteiro33
 
