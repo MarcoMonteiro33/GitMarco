@@ -25,6 +25,11 @@ git checkout -b nomeBranch
 git branch
 git checkout nomeBranch
 git merge nomeBranch
+git stash
+git stash aplly
+git stash list
+git stash clear
+git tag -a v.e.r.s.a.o) -m"comentario"
 
 git clone
 
@@ -61,11 +66,5 @@ git clone https://github.com/MarcoMonteiro33/Interne.git AgendaInterne
 
 ---trabalhando com Rebase
 
-
-
-<<<<<<< HEAD
-origin
-
 -----ATUALIZANDO O MASTER
-=======
->>>>>>> testing
+
